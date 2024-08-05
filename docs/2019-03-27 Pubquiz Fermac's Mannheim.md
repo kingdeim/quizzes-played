@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
   ol { padding-inline-start: 1em; }
   ol ol { list-style-type: lower-alpha; padding-bottom: 1em; }
 </style>
@@ -6,7 +6,7 @@
 
 ## 1. Runde: Musik
 
-1. In welcher Stadt starb Elvis Presley? [^1]
+1. In welcher Stadt starb Elvis Presley?
 
 2. Welche Band wurde von Gordon Matthew (Thomas) Sumner, Stewart Copeland  und Henry Padovani 1977 gegründet?
 
@@ -114,7 +114,7 @@ Was passt nicht? Ich sage Euch ein Thema und danach vier Antworten und eine Antw
 
 ## Antworten
 
-[^1]: 1. Memphis
+1: 1. Memphis
 2. The Police (Gordon Matthew Sumner ist Sting)
 3. Billy Ray Cyrus
 4. Libretto (italienisch für kleines Büchlein)
